@@ -67,7 +67,12 @@
 > ![DO](https://img.shields.io/badge/Digital_Ocean-0168FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 > ![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
 
-  
+
+**CI/CD/Container platforms:**  
+> ![Github action](https://img.shields.io/badge/Github_action-a768ff?style=for-the-badge&logo=github&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 **Take a look at my organizational projects:**  
 > [bvu-it-projects](https://github.com/bvu-it-projects)  
 > [bvu-assistant](https://github.com/bvu-assistant)
