@@ -35,9 +35,9 @@
 
 **Database technologies:**  
 > 
-> ![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=mssql&logoColor=white)
+> ![MSSQL](https://img.shields.io/badge/MS_SQL-white?style=for-the-badge&logo=microsoft-sql-server&logoColor=red)
+> ![MySQL](https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white)
 > ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
