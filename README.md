@@ -1,10 +1,8 @@
-### Xin chào, mình là Nguyễn Anh Tuấn 🐬  
-
-![GitHub User's stars](https://img.shields.io/github/stars/iceStorm?style=for-the-badge&color=fedcba)
-![GitHub followers](https://img.shields.io/github/followers/iceStorm?style=for-the-badge&color=fedcba)
-
-
-[![Website](https://img.shields.io/badge/Website-43AEFC?style=for-the-badge&logo=html5&logoColor=white)](https://anhtuan.asia)
+## Xin chào, mình là Nguyễn Anh Tuấn 🐬
+<!-- 
+![GitHub User's stars](https://img.shields.io/github/stars/iceStorm?style=for-the-badge&color=1977F2)
+![GitHub followers](https://img.shields.io/github/followers/iceStorm?style=for-the-badge&color=1977F2) -->
+[![Website](https://img.shields.io/badge/Website-fedcba?style=for-the-badge&logo=html5&logoColor=black)](https://anhtuan.asia)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hauduedaiduong)
 [![Messenger](https://img.shields.io/badge/Messenger-fedcba?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/hauduedaiduong)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hauduedaiduong@gmail.com)
@@ -80,7 +78,7 @@
 ![Github action](https://img.shields.io/badge/Github_action-5C2D91?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
+>  
 **Take a look at my organizational projects:**  
 > [bvu-it-projects](https://github.com/bvu-it-projects)  
 > [bvu-assistant](https://github.com/bvu-assistant)
