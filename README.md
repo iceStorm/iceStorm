@@ -9,7 +9,7 @@
 
 
 ![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true&count_private=true&include_all_commits=true&show_owner&layout=default&border_radius=0&hide_border=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=45,654ea3,eaafc8&card_width=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceStorm&custom_title=Most%20used%20technologies&langs_count=10&layout=compact&border_radius=0&hide_border=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=0,eaafc8,654ea3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceStorm&custom_title=Most%20used%20technologies&langs_count=5&layout=compact&border_radius=0&hide_border=true&text_color=000&icon_color=000&title_color=000&bg_color=0,E6ABC6,E6ABC6)
 
 
 ### **Operating systems:**  
