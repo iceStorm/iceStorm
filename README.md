@@ -3,8 +3,8 @@
 > ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceStorm.iceStorm)
 
 
-![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true&count_private=true&include_all_commits=true&show_owner&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceStorm&layout=compact)
+![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true&count_private=true&include_all_commits=true&show_owner&layout=default&border_radius=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceStorm&layout=compact&border_radius=0)
 
 
 **Operating systems:**  
@@ -69,3 +69,9 @@
 **Take a look at my organizational projects:**  
 > [bvu-it-projects](https://github.com/bvu-it-projects)  
 > [bvu-assistant](https://github.com/bvu-assistant)
+
+**Pinned projects:**
+> 
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
