@@ -1,9 +1,9 @@
 **Xin chào, mình là Nguyễn Anh Tuấn 🐬**  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceStorm.iceStorm)
+> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iceStorm.iceStorm)
 
 
-![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true)
+![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true&count_private=true&include_all_commits=true&show_owner&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceStorm&layout=compact)
 
 
@@ -35,7 +35,7 @@
 
 **Database technologies:**  
 > 
-> ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<!-- > ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
 > ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
