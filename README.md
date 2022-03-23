@@ -9,9 +9,9 @@
 
 **Operating systems:**  
 > 
-> ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+> ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
 > ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<!-- > ![MacOS](https://img.shields.io/badge/macos-monsterey-brightgreen.svg) -->
+> ![MacOS](https://img.shields.io/badge/Mac_OS-7700ff?style=for-the-badge&logo=macos&logoColor=white)
 
 
 **Programming languages:**  
@@ -35,7 +35,7 @@
 
 **Database technologies:**  
 > 
-<!-- > ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
+> ![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=mssql&logoColor=white)
 > ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,15 +63,16 @@
 > 
 > ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 > ![Netlify](https://img.shields.io/badge/Netlify-00b2a3?style=for-the-badge&logo=netlify&logoColor=white)
-<!-- > ![Vercel]() -->
+> ![Linux](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
+> ![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
 
   
 **Take a look at my organizational projects:**  
 > [bvu-it-projects](https://github.com/bvu-it-projects)  
 > [bvu-assistant](https://github.com/bvu-assistant)
 
-**Pinned projects:**
+<!-- **Pinned projects:**
 > 
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
