@@ -6,6 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hauduedaiduong)
 [![Messenger](https://img.shields.io/badge/Messenger-fedcba?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/hauduedaiduong)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hauduedaiduong@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-fedcba?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/anhtuan3675/)
 
 
 ![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true&count_private=true&include_all_commits=true&show_owner&layout=default&border_radius=0&hide_border=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=45,654ea3,eaafc8&card_width=200)
@@ -75,7 +76,7 @@
 
 ### **CI/CD/Container platforms:**  
 
-![Github action](https://img.shields.io/badge/Github_action-5C2D91?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=docker&logoColor=white)
 
 >  
