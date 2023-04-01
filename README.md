@@ -2,11 +2,6 @@
 <!-- 
 ![GitHub User's stars](https://img.shields.io/github/stars/iceStorm?style=for-the-badge&color=1977F2)
 ![GitHub followers](https://img.shields.io/github/followers/iceStorm?style=for-the-badge&color=1977F2) -->
-[![Website](https://img.shields.io/badge/Website-fedcba?style=for-the-badge&logo=html5&logoColor=black)](https://anhtuan.asia)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hauduedaiduong)
-[![Messenger](https://img.shields.io/badge/Messenger-fedcba?style=for-the-badge&logo=messenger&logoColor=black)](https://m.me/hauduedaiduong)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hauduedaiduong@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-fedcba?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/anhtuan3675/)
 
 
 ![iceStorms's github stats](https://github-readme-stats.vercel.app/api?username=iceStorm&show_icons=true&count_private=true&include_all_commits=true&show_owner&layout=default&border_radius=0&hide_border=true&text_color=fff&icon_color=fff&title_color=fff&bg_color=45,654ea3,eaafc8&card_width=200)
